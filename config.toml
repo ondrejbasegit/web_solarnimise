@@ -26,40 +26,40 @@ theme = "raditian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
-  URL = "#about"
+  name = "Pro firmy"
+  URL = "#firmy"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Pro domy"
+  URL = "#domy"
   weight = 3
 
   [[menu.header]]
-  name = "Contact"
+  name = "Kontaktujte nás!"
   URL = "#contact"
   weight = 4
 
 
   [[menu.footer]]
-  name = "About"
-  URL = "#about"
+  name = "Pro firmy"
+  URL = "#firmy"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Pro domy"
+  URL = "#domy"
   weight = 3
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Kontaktujte nás!"
   URL = "#contact"
   weight = 4
 
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "firmy", "firmy_nabidka", "firmy_body", "domy", "domy_nabidka", "domy_body", "client-and-work", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
@@ -68,8 +68,8 @@ theme = "raditian-free-hugo-theme"
     text2 = "Ellure"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "Created by: Ondřej Baše"
       [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        x = "img/general/ob_logo.png"
+        _2x = "img/general/ob_logo@2x.png"
+        alt = "Created by: Ondřej Baše"
