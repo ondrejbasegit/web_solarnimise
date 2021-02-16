@@ -5,10 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Šetříte planetu i finance?"
-  subtitle: "Vedeme solární misi!"
-  description: "Pomáháme lidem a firmám ušetřit peníze i planetu, zařízujeme realizaci na klíč i s dotací. 
-  Lorem ipsum dolor sit ametel, consectetuer adipiscing elit. Nam quis nulla."
+  title: "Šetříte planetu i své náklady? My Vám v tom pomůžeme!"
+  subtitle: "Vedeme pro Vás SOLÁRNÍ MISI! "
+  description: "Pomáháme lidem a firmám ušetřit peníze i planetu, zařízujeme realizaci na klíč i s dotací. Nezávazně si nás vyzkoušejte."
   image:
     alt: "Solární mise"
     x: "img/showcase/showcase.png"
@@ -26,6 +25,11 @@ showcase:
     icon: ""
     btnText: "PRO DOMY"
     URL: "/#domy"
+  
+  button3:
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
+    URL: "/#contact"
 
   socialLinks:
     - icon: "twitter"
@@ -55,8 +59,8 @@ firmy:
     Nullam sit amet magna in magna gravida vehicula. 
     </p>'
   button:
-    icon: "icon-smile-fill"
-    btnText: "Kontaktujte nás"
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
     URL: ""
   image:
     x: "img/firmy/firmy.png"
@@ -108,13 +112,9 @@ firmy_body:
     Praesent id justo in neque elementum ultrices. Etiam neque. Proin mattis lacinia justo. 
     Nullam sit amet magna in magna gravida vehicula.'
   button:
-    icon: "icon-smile-fill"
-    btnText: "Kontaktujte nás"
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
     URL: ""
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Více informací"
-    URL: "#"
 
   items:
     - title: "1) První krok nezávislosti a úspoře"
@@ -158,18 +158,27 @@ domy:
   enable: true
   title: "Domy"
   content: '<p class="lead">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. 
-    Curabitur bibendum justo non orci. Duis viverra diam non justo. 
-    Phasellus et lorem id felis nonummy placerat. 
-    Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. 
+    Celou Vaši solární misi za Vás uděláme MY – na klíč!
     </p>
     <p class="lead">
-    Praesent id justo in neque elementum ultrices. Etiam neque. Proin mattis lacinia justo. 
-    Nullam sit amet magna in magna gravida vehicula. 
+    Jsme jediná realizační společnost v ČR, která má špičkově vymyšlené řízení spolupráce mezi elektrárnou a tepelným čerpadlem za účelem maximální efektivity. 
+    Z 1kw vyrobené ze slunce máte 4kW v teple. Umíme zajistit 400% zisk!
+    </p>
+    <p class="lead">
+    Zajistíme dotace, a pokud bude potřeba, tak i financování Vaší nové elektrárny. 
+    S námi máte záruku až 30 let na výkonu FVE, až 20 let na fotovoltaické panely a 10 let na střídač a bateriový systém. 
+    Máme tým s dlouholetými zkušenostmi a spolupracujeme s ověřenými dodavateli kvalitních technologií. 
+    Nainstalovali jsem již přes 110 elektráren s celkovým výkonem přes 12.000 kWp (12 mWp), a to je už opravdu velký výkon!
+    </p>
+    <p class="lead">
+    Přebytečná elektřina vyrobená z vaší elektrárny, která se nespotřebuje, lze využít například k nahřátí vody, vytopení domácnosti nebo uložení do baterky na později.  
+    Uložení vyrobené energie v bateriích má tu výhodu, že ji využíváte právě tehdy, když ji potřebujete. Můžete tak pokrýt až 80 % spotřeby elektrické energie z vlastních zdrojů. 
+    Poradíme Vám, jak na to!
     </p>'
+
   button:
-    icon: "icon-smile-fill"
-    btnText: "Kontaktujte nás"
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
     URL: ""
   image:
     x: "img/domy/domy.png"
@@ -178,34 +187,37 @@ domy:
 # nabidka
 domy_nabidka:
   enable: true
-  title: "Příklady nabídek"
+  title: "Naše nabídka"
   items:
-    - name: "výsledná cena:"
-      position: "20 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "Elektrárna Baby Solární Mise"
+      position: "od 60 000 Kč"
+      content: 'Nejmenší možná efektivní elektrárna, která za Vás povede solární misi ke snížení nákladu na spotřebu energií v rámci bydlení. 
+      Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
+      Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
+      Na Vás bude úvodní investice a pokud bude potřeba, zajistíme Vám levné financování od našich partnerů.
+      Kontaktujte nás a začněme Vaši misi!'
       image:
         x: ""
         _2x: ""
 
-    - name: "výsledná cena:"
-      position: "150 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "Elektrárna Princess Solární Mise"
+      position: "od 150 000 Kč"
+      content: "Ukládání energie do baterií - využíváte ji přesně v okamžik, kdy potřebujete. Systém proti výpadku dodávek ze sítě - vy stále svítíte a domácnost jede!
+      Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
+      Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
+      Pokud bude potřeba, zajistíme Vám levné financování od našich partnerů.
+      Kontaktujte nás a začněme Vaši misi!"
       image:
         x: ""
         _2x: ""
 
-    - name: "výsledná cena:"
-      position: "600 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "Individuální nabídka na míru pro Vás"
+      position: "Kontaktujte nás!"
+      content: "Vzhledem k naším zkušenostem dokážeme splnit jakékoliv přání, postaráme se i o nejnáročnější klienty.
+      Nabízíme individuální přístup a profesionální servis, vytvoříme pro Vás přesně takovou sestavu, jakou budete potřebovat. 
+      Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis. 
+      Kontaktujte nás a podělte se s námi o Vaše představy, plány a sny.
+      Neváhejte začít Vaši misi!"
       image:
         x: ""
         _2x: ""
@@ -214,127 +226,144 @@ domy_nabidka:
 domy_body:
   enable: true
   title: "Jak to probíhá"
-  description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. 
-    Curabitur bibendum justo non orci. Duis viverra diam non justo. 
-    Phasellus et lorem id felis nonummy placerat. 
-    Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat.
-    Praesent id justo in neque elementum ultrices. Etiam neque. Proin mattis lacinia justo. 
-    Nullam sit amet magna in magna gravida vehicula.'
+  description: 'Chcete-li vědět více o nezávislosti a úspoře, kontaktujte nás a my Vám obratem zavoláme a domluvíme se ohledně realizace. 
+  Na základě Vaší adresy a aktuální spotřeby energie nastavíme optimální velikost elektrárny pro maximální úsporu nákladů a efektivitu elektrárny. 
+  Vytvoříme orientační kalkulaci konkrétně pro Váš dům. Při osobní konzultaci u Vás doma si poté řekneme základní informace a zodpovíme všechny Vaše dotazy.'
   button:
-    icon: "icon-smile-fill"
-    btnText: "Kontaktujte nás"
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
     URL: ""
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Více informací"
-    URL: "#"
 
   items:
     - title: "1) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+      company: "Vymyslíme Vaši solární misi za úsporou nákladů, odsouhlasíme s Vámi řešení které Vám padne na míru."
       duration: ""
 
-    - title: "2) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "2) Podpis smlouvy a zaplacení zálohy"
+      company: "Po podpisu smlouvy o dílo a zaplacení zálohy na realizaci oznámíme u distributora stavbu Vaší elektrárny. Musíme počkat na svolení připojení do soustavy, bez toho nemůžeme instalovat."
       duration: ""
 
-    - title: "3) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "3) Instalace"
+      company: "O naplánovaném termínu instalace začneme brzy ráno, a pokud bude dobré počasí, tak máme během jednoho dne hotovo. Typická doba instalace je jeden až dva dny."
       duration: ""
 
-    - title: "4) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "4) Revize a zaškolení"
+      company: "Provedeme revizi systému, elektrárnu zkontrolujeme, zda vše funguje, jak má. Samozřejmostí je, že Vás naučíme s elektrárnou pracovat a ovládat ji."
       duration: ""
 
-    - title: "5) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "5) Výměna elektroměru a vypracování posudku"
+      company: "Následuje výměna elektroměru, po které vypracujeme posudek pro NZU. 
+      Jakmile Vám distributor vystaví potvrzení o připojení, odešleme NZÚ vše potřebné, abychom Vám zajistili co nejdřívější návrat Vaší investice."
       duration: ""
 
-    - title: "6) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "6) Vaše solární mise je zahájena!"
+      company: "Sledujte svou elektrárnu online na svém mobilním telefonu, tabletu nebo počítači v rámci monitoringu. Jsme Vám oporou pro servis po celou dobu provozu."
       duration: ""
 
 
 # Klienti
 client_and_work:
-  title: "Naši klienti"
+  title: "Partneři"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/aidesolar.jpg"
+        _2x: "img/clients/aidesolar.jpg"
+      alt: "Aide Solar"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/fronius.jpg"
+        _2x: "img/clients/fronius.jpg"
+      alt: "Fronius"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/caft.jpg"
+        _2x: "img/clients/caft.jpg"
+      alt: "Caft"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/jablotron.jpg"
+        _2x: "img/clients/jablotron.jpg"
+      alt: "Jablotron"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/kaco.jpg"
+        _2x: "img/clients/kaco.jpg"
+      alt: "Kaco"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/micronix.jpg"
+        _2x: "img/clients/micronix.jpg"
+      alt: "Micronix"
+  
+    - logo:
+        x: "img/clients/nexpower.jpg"
+        _2x: "img/clients/nexpower.jpg"
+      alt: "NexPower"
+    
+    - logo:
+        x: "img/clients/powerone.jpg"
+        _2x: "img/clients/powerone.jpg"
+      alt: "Power-one"
+
+    - logo:
+        x: "img/clients/pvrecovery.jpg"
+        _2x: "img/clients/pvrecovery.jpg"
+      alt: "PV Recovery"
+
+    - logo:
+        x: "img/clients/regulus.jpg"
+        _2x: "img/clients/regulus.jpg"
+      alt: "Regulus"
+
+    - logo:
+        x: "img/clients/solarmonitor.jpg"
+        _2x: "img/clients/solarmonitor.jpg"
+      alt: "Solar Monitor"
+  
+    - logo:
+        x: "img/clients/solarniasociace.jpg"
+        _2x: "img/clients/solarniasociace.jpg"
+      alt: "Solární Asociace"
+
+    - logo:
+        x: "img/clients/winaico.jpg"
+        _2x: "img/clients/winaico.jpg"
+      alt: "Winaico"
 
   works:
-    - title: "První dobrý ryto"
-      description: "Tady jsme toho udělali hodně, a strašně moc ušetřili, jsou z nás nadšení. Všichni velmi chválili, a nechtěli by nikdy nikdo a nic jiného. Chcete taky?"
+    - title: "Servis"
+      description: "Nabízíme pravidelné prohlídky elektrárny včetně kontroly komponentů, servisní zásahy v případě jakékoli poruchy i odborné mytí panelů."
       button:
-        icon: "icon-arrow-right"
-        btnText: "Kontaktujte nás"
+        icon: ""
+        btnText: "KONTAKTUJTE NÁS!"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/servis.jpg"
+        _2x: "img/works/servis@2x.jpg"
       is_even: true
 
-    - title: "Druhý dobrý ryto"
-      description: "Tady jsme toho udělali hodně, a strašně moc ušetřili, jsou z nás nadšení. Všichni velmi chválili, a nechtěli by nikdy nikdo a nic jiného. Chcete taky?"
+    - title: "Poradenství a konzultace"
+      description: "Pomůžeme Vám s uzavřením smlouvy na výkup přebytků, s vydáním a prodloužením certifikátů pro systém firmy OTE a.s. včetně potřebného nastavení ve Vašem počítači a s vyplňováním měsíčních výkazů a účetnictví."
       button:
-        icon: "icon-arrow-right"
-        btnText: "Kontaktujte nás"
+        icon: ""
+        btnText: "KONTAKTUJTE NÁS!"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/konzultace.jpg"
+        _2x: "img/works/konzultace@2x.jpg"
       is_even: false
 
-    - title: "Třetí dobrý ryto"
-      description: "Tady jsme toho udělali hodně, a strašně moc ušetřili, jsou z nás nadšení. Všichni velmi chválili, a nechtěli by nikdy nikdo a nic jiného. Chcete taky?"
+    - title: "Recyklace"
+      description: "Zprostředkujeme Vaši registraci do kolektivního systému pro potřeby recyklace solárních panelů dle novely vyhlášky č. 352/2005 Sb."
       button:
-        icon: "icon-arrow-right"
-        btnText: "Kontaktujte nás"
+        icon: ""
+        btnText: "KONTAKTUJTE NÁS!"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/recyklace.jpg"
+        _2x: "img/works/recyklace@2x.jpg"
       is_even: true
 
 # contact
