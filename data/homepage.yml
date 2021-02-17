@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Šetříte planetu i své náklady? My Vám v tom pomůžeme!"
   subtitle: "Vedeme pro Vás SOLÁRNÍ MISI! "
-  description: "Pomáháme lidem a firmám ušetřit peníze i planetu, zařízujeme realizaci na klíč i s dotací. Nezávazně si nás vyzkoušejte."
+  description: "Pomáháme lidem a firmám šetřit peníze i planetu, zařizujeme realizaci na klíč i s dotací. Nezávazně si nás vyzkoušejte."
   image:
     alt: "Solární mise"
     x: "img/showcase/showcase.png"
@@ -49,14 +49,13 @@ firmy:
   enable: true
   title: "Firmy"
   content: '<p class="lead">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. 
-    Curabitur bibendum justo non orci. Duis viverra diam non justo. 
-    Phasellus et lorem id felis nonummy placerat. 
-    Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. 
+    Jdeme cestou budoucnosti – dodáváme koncepční řešení energetických potřeb zákazníkům z řad firem i domácností. 
     </p>
     <p class="lead">
-    Praesent id justo in neque elementum ultrices. Etiam neque. Proin mattis lacinia justo. 
-    Nullam sit amet magna in magna gravida vehicula. 
+    Výstavba střešní fotovoltaické elektrárny je snadný způsob jak snížít své účty za nákup elektřiny, navíc jako výrobce zažijete nový pocit soběstačnosti. 
+    </p>
+    <p class="lead">
+    Výstavbu fotovoltaické elektrárny Vám zrealizujeme na klíč. Navrhneme Vám optimální řešení, která Vám bude dávat technický a ekonomický smysl. Vezměte si energii ze Slunce a Vaše elektrárna Vám ji přemění na elektřinu. 
     </p>'
   button:
     icon: ""
@@ -69,34 +68,31 @@ firmy:
 # nabidka
 firmy_nabidka:
   enable: true
-  title: "Příklady nabídek"
+  title: "Program podpory úspory energie pro fotovoltaické systémy"
   items:
-    - name: "výsledná cena:"
-      position: "20 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "MALÝ PODNIK (do 50 zaměstnanců)"
+      position: "Dotace 80%"
+      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
+      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
+      Výzva je průběžná, žádosti je možné podávat do 31.8.2020"
       image:
         x: ""
         _2x: ""
 
-    - name: "výsledná cena:"
-      position: "150 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "STŘEDNÍ PODNIK (od 50 do 250 zaměstnanců)"
+      position: "Dotace 70%"
+      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
+      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
+      Výzva je průběžná, žádosti je možné podávat do 31.8.2020"
       image:
         x: ""
         _2x: ""
 
-    - name: "výsledná cena:"
-      position: "600 000 Kč"
-      content: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. 
-      Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Praesent id justo in neque elementum ultrices. 
-      Etiam neque. Proin mattis lacinia justo."
+    - name: "VELKÝ PODNIK (nad 250 zaměstnanců)"
+      position: "Dotace 60%"
+      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
+      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
+      Výzva je průběžná, žádosti je možné podávat do 31.8.2020."
       image:
         x: ""
         _2x: ""
@@ -104,53 +100,42 @@ firmy_nabidka:
 # postup - body
 firmy_body:
   enable: true
-  title: "Jak to probíhá"
-  description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. 
-    Curabitur bibendum justo non orci. Duis viverra diam non justo. 
-    Phasellus et lorem id felis nonummy placerat. 
-    Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat.
-    Praesent id justo in neque elementum ultrices. Etiam neque. Proin mattis lacinia justo. 
-    Nullam sit amet magna in magna gravida vehicula.'
+  title: "Proč začít uvažovat o vlastní elektráně už dnes a využít našich služeb?"
+  description: 'Neváhejte nás kontaktovat a zjistěte, jak můžeme pomoci ušetřit náklady i Vaší firmě!'
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
     URL: ""
 
   items:
-    - title: "1) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Bohaté zkušenosti v oblasti výstavby fotovoltaických elektráren"
+      company: "Výstavbou fotovoltaických elektráren se zabýváme od roku 2008. 
+      Realizovali jsme řadu pozemních instalací, včetně instalací na střechách průmyslových objektů a hal, o celkovém instalovaném výkonu přesahujícím 12 000 kWp."
       duration: ""
 
-    - title: "2) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Dotace z programu OP PIK, s podporou až 80% z uznatelných nákladů investice"
+      company: "Pro výstavbu Vaší fotovoltaické elektrárny jsme schopni zajistit podání žádosti o dotaci z programu OP PIK, a to až ve výši 80 % z uznatelných nákladů investice. 
+      V případě Vašeho zájmu vše zařídíme za Vás."
       duration: ""
 
-    - title: "3) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Nezávislost na distribuční síti"
+      company: "Snižte své účty za nákup elektřiny nebo se přestaňte obávat jejího výpadku. 
+      S vlastní elektrárnou na střeše můžete mít i řešení, které Vám zabezpečí stabilní dodávku v případě výpadku distribuční soustavy."
       duration: ""
 
-    - title: "4) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Individuální přístup"
+      company: "Ke každému zákazníkovi přistupujeme individuálně a snažíme se mu nabídnout nejlepší možné řešení. 
+      Naším cílem je spokojenost, a proto od nás očekávejte řešení, která Vám budou dávat technický a ekonomický smysl."
       duration: ""
 
-    - title: "5) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Garance kvality"
+      company: "Pro výstavbu našich elektráren používáme pouze kvalitní a osvědčené značky, jako například Q Cells, Winaico, Kyocera, CSUN, Fronius a další. 
+      Vzhledem k tomu můžeme poskytnout záruku kvality na panely až 30 let a na střídačce až 10 let."
       duration: ""
 
-    - title: "6) První krok nezávislosti a úspoře"
-      company: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam quis nulla. Curabitur bibendum justo non orci. 
-      Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat.
-      Phasellus et lorem id felis nonummy placerat."
+    - title: "Servis a podpora"
+      company: "Ať už budete na svém počítači, tabletu či chytrém mobilu, budete mít vždy přehled o provozu své elektrárny, stejně jako naši technici. 
+      Ti díky tomu mohou flexibilně reagovat na jakékoli problémy s elektrárnou a v co nejkratším čase je začít řešit."
       duration: ""
 
 # domy
@@ -168,10 +153,10 @@ domy:
     Zajistíme dotace, a pokud bude potřeba, tak i financování Vaší nové elektrárny. 
     S námi máte záruku až 30 let na výkonu FVE, až 20 let na fotovoltaické panely a 10 let na střídač a bateriový systém. 
     Máme tým s dlouholetými zkušenostmi a spolupracujeme s ověřenými dodavateli kvalitních technologií. 
-    Nainstalovali jsem již přes 110 elektráren s celkovým výkonem přes 12.000 kWp (12 mWp), a to je už opravdu velký výkon!
+    Nainstalovali jsem již přes 110 elektráren s celkovým výkonem přes 12.000 kWp (12 mWp), a to je opravdu velký výkon!
     </p>
     <p class="lead">
-    Přebytečná elektřina vyrobená z vaší elektrárny, která se nespotřebuje, lze využít například k nahřátí vody, vytopení domácnosti nebo uložení do baterky na později.  
+    Přebytečná elektřina vyrobená z Vaší elektrárny která se nespotřebuje lze využít například k nahřátí vody, vytopení domácnosti nebo uložení do baterie na později.  
     Uložení vyrobené energie v bateriích má tu výhodu, že ji využíváte právě tehdy, když ji potřebujete. Můžete tak pokrýt až 80 % spotřeby elektrické energie z vlastních zdrojů. 
     Poradíme Vám, jak na to!
     </p>'
@@ -189,20 +174,20 @@ domy_nabidka:
   enable: true
   title: "Naše nabídka"
   items:
-    - name: "Elektrárna Baby Solární Mise"
+    - name: "Elektrárna Baby solární mise"
       position: "od 60 000 Kč"
       content: 'Nejmenší možná efektivní elektrárna, která za Vás povede solární misi ke snížení nákladu na spotřebu energií v rámci bydlení. 
       Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
       Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
-      Na Vás bude úvodní investice a pokud bude potřeba, zajistíme Vám levné financování od našich partnerů.
+      Na Vás je pouze úvodní investice, a pokud bude potřeba, zajistíme Vám levné financování od našich partnerů.
       Kontaktujte nás a začněme Vaši misi!'
       image:
         x: ""
         _2x: ""
 
-    - name: "Elektrárna Princess Solární Mise"
+    - name: "Elektrárna Princess solární mise"
       position: "od 150 000 Kč"
-      content: "Ukládání energie do baterií - využíváte ji přesně v okamžik, kdy potřebujete. Systém proti výpadku dodávek ze sítě - vy stále svítíte a domácnost jede!
+      content: "Ukládání energie do baterií - využíváte ji přesně v okamžik, kdy potřebujete. Systém proti výpadku dodávek ze sítě - Vy stále svítíte a domácnost jede!
       Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
       Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
       Pokud bude potřeba, zajistíme Vám levné financování od našich partnerů.
@@ -227,8 +212,8 @@ domy_body:
   enable: true
   title: "Jak to probíhá"
   description: 'Chcete-li vědět více o nezávislosti a úspoře, kontaktujte nás a my Vám obratem zavoláme a domluvíme se ohledně realizace. 
-  Na základě Vaší adresy a aktuální spotřeby energie nastavíme optimální velikost elektrárny pro maximální úsporu nákladů a efektivitu elektrárny. 
-  Vytvoříme orientační kalkulaci konkrétně pro Váš dům. Při osobní konzultaci u Vás doma si poté řekneme základní informace a zodpovíme všechny Vaše dotazy.'
+  Na základě Vaší adresy a aktuální spotřeby energie nastavíme optimální velikost elektrárny pro maximální efektivitu a úsporu nákladů. 
+  Vytvoříme kalkulaci konkrétně pro Váš dům. Při osobní konzultaci u Vás doma si poté řekneme základní informace a zodpovíme všechny Vaše dotazy.'
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
@@ -236,11 +221,11 @@ domy_body:
 
   items:
     - title: "1) První krok nezávislosti a úspoře"
-      company: "Vymyslíme Vaši solární misi za úsporou nákladů, odsouhlasíme s Vámi řešení které Vám padne na míru."
+      company: "Vymyslíme Vaši solární misi za úsporou nákladů a odsouhlasíme s Vámi řešení, které Vám padne na míru."
       duration: ""
 
     - title: "2) Podpis smlouvy a zaplacení zálohy"
-      company: "Po podpisu smlouvy o dílo a zaplacení zálohy na realizaci oznámíme u distributora stavbu Vaší elektrárny. Musíme počkat na svolení připojení do soustavy, bez toho nemůžeme instalovat."
+      company: "Po podpisu smlouvy o dílo a zaplacení zálohy na realizaci oznámíme u distributora stavbu Vaší elektrárny. Následně počkáme na svolení připojení do soustavy, bez toho nemůžeme instalovat."
       duration: ""
 
     - title: "3) Instalace"
@@ -248,7 +233,7 @@ domy_body:
       duration: ""
 
     - title: "4) Revize a zaškolení"
-      company: "Provedeme revizi systému, elektrárnu zkontrolujeme, zda vše funguje, jak má. Samozřejmostí je, že Vás naučíme s elektrárnou pracovat a ovládat ji."
+      company: "Provedeme revizi systému - elektrárnu zkontrolujeme, zda vše funguje, jak má. Samozřejmostí je, že Vás naučíme s elektrárnou pracovat a ovládat ji."
       duration: ""
 
     - title: "5) Výměna elektroměru a vypracování posudku"
@@ -257,7 +242,7 @@ domy_body:
       duration: ""
 
     - title: "6) Vaše solární mise je zahájena!"
-      company: "Sledujte svou elektrárnu online na svém mobilním telefonu, tabletu nebo počítači v rámci monitoringu. Jsme Vám oporou pro servis po celou dobu provozu."
+      company: "Sledujte jak Vám Vaše nová elektrárna šetří náklady - online na svém mobilním telefonu, tabletu nebo počítači. Jsme Vám oporou pro servis po celou dobu provozu."
       duration: ""
 
 
@@ -345,7 +330,7 @@ client_and_work:
       is_even: true
 
     - title: "Poradenství a konzultace"
-      description: "Pomůžeme Vám s uzavřením smlouvy na výkup přebytků, s vydáním a prodloužením certifikátů pro systém firmy OTE a.s. včetně potřebného nastavení ve Vašem počítači a s vyplňováním měsíčních výkazů a účetnictví."
+      description: "Pomůžeme Vám s uzavřením smlouvy na výkup přebytků, s vydáním a prodloužením certifikátů pro systém firmy OTE a.s. včetně potřebného nastavení ve Vašem počítači a s vyplňováním měsíčních výkazů a účetnictvím."
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
@@ -378,13 +363,13 @@ contact:
     message: "Vaše zpráva"
   phone:
     title: "Telefonní číslo"
-    number: "+420 603 447 727"
+    number: "+420 777 621 311"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">solarni@mise.cz</a>'
+    email: '<a href="mailto:info@solarnimise.cz">info@solarnimise.cz</a>'
   address:
     title: "Adresa"
-    address: "Solární mise s.r.o.<br />Dlouhá 123, 120 00 Hradec Králové"
+    address: "AD-Sound s.r.o.<br />Koželužská 220/2 – Kukleny<br />500 04 Hradec Králové<br />IČ: 03892859<br />DIČ: CZ03892859"
   button:
     icon: "icon-mail-fill"
     btnText: "Odeslat zprávu"
