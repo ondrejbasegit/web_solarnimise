@@ -19,17 +19,17 @@ showcase:
   button:
     icon: ""
     btnText: "PRO FIRMY"
-    URL: "/#firmy"
+    URL: "#firmy"
   
   button2:
     icon: ""
     btnText: "PRO DOMY"
-    URL: "/#domy"
+    URL: "#domy"
   
   button3:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "/#contact"
+    URL: "#contact"
 
   socialLinks:
     - icon: "twitter"
@@ -60,7 +60,7 @@ firmy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: ""
+    URL: "#contact"
   image:
     x: "img/firmy/firmy.png"
     _2x: "img/firmy/firmy@2x.png"
@@ -79,7 +79,7 @@ firmy_nabidka:
         x: ""
         _2x: ""
 
-    - name: "STŘEDNÍ PODNIK (od 50 do 250 zaměstnanců)"
+    - name: "STŘEDNÍ PODNIK (do 250 zaměstnanců)"
       position: "Dotace 70%"
       content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
       a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
@@ -105,7 +105,7 @@ firmy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: ""
+    URL: "#contact"
 
   items:
     - title: "Bohaté zkušenosti v oblasti výstavby fotovoltaických elektráren"
@@ -164,7 +164,7 @@ domy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: ""
+    URL: "#contact"
   image:
     x: "img/domy/domy.png"
     _2x: "img/domy/domy@2x.png"
@@ -217,7 +217,7 @@ domy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: ""
+    URL: "#contact"
 
   items:
     - title: "1) První krok nezávislosti a úspoře"
@@ -323,7 +323,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#"
+        URL: "#contact"
       image:
         x: "img/works/servis.jpg"
         _2x: "img/works/servis@2x.jpg"
@@ -334,7 +334,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#"
+        URL: "#contact"
       image:
         x: "img/works/konzultace.jpg"
         _2x: "img/works/konzultace@2x.jpg"
@@ -345,7 +345,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#"
+        URL: "#contact"
       image:
         x: "img/works/recyklace.jpg"
         _2x: "img/works/recyklace@2x.jpg"
