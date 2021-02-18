@@ -25,11 +25,6 @@ showcase:
     icon: ""
     btnText: "PRO DOMY"
     URL: "#domy"
-  
-  button3:
-    icon: ""
-    btnText: "KONTAKTUJTE NÁS!"
-    URL: "#contact"
 
   socialLinks:
     - icon: "twitter"
