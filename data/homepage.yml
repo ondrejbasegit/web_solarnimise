@@ -27,16 +27,13 @@ showcase:
     URL: "#domy"
 
   socialLinks:
-    - icon: "twitter"
-      URL: "/"
-
-    - icon: "youtube"
-      URL: "/"
-
     - icon: "instagram"
       URL: "/"
 
     - icon: "facebook"
+      URL: "/"
+
+    - icon: "youtube"
       URL: "/"
 
 # firmy
@@ -95,7 +92,7 @@ firmy_nabidka:
 # postup - body
 firmy_body:
   enable: true
-  title: "Proč začít uvažovat o vlastní elektráně už dnes a využít našich služeb?"
+  title: "Proč začít uvažovat o vlastní elektráně už dnes?"
   description: 'Neváhejte nás kontaktovat a zjistěte, jak můžeme pomoci ušetřit náklady i Vaší firmě!'
   button:
     icon: ""
@@ -205,7 +202,7 @@ domy_nabidka:
 # postup - body
 domy_body:
   enable: true
-  title: "Jak to probíhá"
+  title: "Jak to probíhá?"
   description: 'Chcete-li vědět více o nezávislosti a úspoře, kontaktujte nás a my Vám obratem zavoláme a domluvíme se ohledně realizace. 
   Na základě Vaší adresy a aktuální spotřeby energie nastavíme optimální velikost elektrárny pro maximální efektivitu a úsporu nákladů. 
   Vytvoříme kalkulaci konkrétně pro Váš dům. Při osobní konzultaci u Vás doma si poté řekneme základní informace a zodpovíme všechny Vaše dotazy.'
@@ -215,7 +212,7 @@ domy_body:
     URL: "#contact"
 
   items:
-    - title: "1) První krok nezávislosti a úspoře"
+    - title: "1) První krok k nezávislosti a úspoře"
       company: "Vymyslíme Vaši solární misi za úsporou nákladů a odsouhlasíme s Vámi řešení, které Vám padne na míru."
       duration: ""
 

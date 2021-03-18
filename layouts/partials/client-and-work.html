@@ -4,7 +4,7 @@
     <h2 class=" rad-animation-group rad-fade-down">
       {{ .Site.Data.homepage.client_and_work.title }}
     </h2>
-    <div class="row row--padded rad-animation-group rad-fade-down">
+    <div class="row row--padded rad-animation-group rad-fade-down section--border-bottom">
       <div class="col-12">
         <div class="clients">
           {{ range .Site.Data.homepage.client_and_work.clients }}
@@ -22,6 +22,9 @@
           {{ end }}
         </div>
       </div>
+      &nbsp;
+      &nbsp;
+      &nbsp;
     </div>
     {{ range $index, $element := .Site.Data.homepage.client_and_work.works }}
     <div
