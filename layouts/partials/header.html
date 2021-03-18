@@ -36,21 +36,26 @@
           {{ end }}
         </ul>
       </div>
-      &nbsp;
-      &nbsp;
-      <div class="row platform-links">
-        <div class="col-12">
-          {{ range .Site.Data.homepage.showcase.socialLinks }}
-          <a href="{{ .URL | absURL }}" target="_blank"
-            ><i class="icon-{{ .icon }}-line"></i
-          ></a>
-          {{ end }}
+      <div class="no-mobile">
+        <div class="row platform-links">      
+          <div class="col-12">
+            &nbsp;
+            &nbsp;
+            {{ range .Site.Data.homepage.showcase.socialLinks }}
+            <a href="{{ .URL | absURL }}" target="_blank"
+              ><i class="icon-{{ .icon }}-line"></i
+            ></a>
+            {{ end }}
+            &nbsp;
+            &nbsp;
+            &nbsp;
+          </div>
         </div>
       </div>
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      <p style="color:#e93e34; margin-top: 28px">+420 777 621 311</p>
+      <div class="no-mobile">
+        &nbsp;
+        <p style="color:#e93e34; margin-top: 5px">+420 777 621 311</p>
+      </div>
     </nav>
   </div>
 </header>
