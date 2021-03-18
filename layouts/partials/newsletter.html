@@ -5,7 +5,7 @@
     <div class="col-12 text-center">
       <h2>{{ .Site.Data.homepage.newsletter.title }}</h2>
       <div class="rad-subscription-group">
-        <form id="rad-subscription" action="">
+        <form id="rad-subscription" action="" netlify>
           <input
             id="rad-subscription-email"
             type="email"
@@ -17,6 +17,10 @@
           <button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
             Odeslat
           </button>
+          <div class="field">
+            <label for="subject" style="display: none;">Předmět:</label>
+            <input type="hidden" name="subject" id="subject" value="Zpráva z webu www.solarnimise.cz"/>
+          </div>
         </form>
         <div id="rad-subscription-success" class="d-none">
           <p class="lead">{{ .Site.Data.homepage.newsletter.success_message }}</p>
