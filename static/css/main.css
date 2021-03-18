@@ -459,7 +459,7 @@ dd, label, legend {
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
 
-@media (max-width:728px){
+@media (max-width:992px){
     .no-mobile {
       display:none;
     }
