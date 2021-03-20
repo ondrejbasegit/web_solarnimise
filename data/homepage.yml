@@ -368,7 +368,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Máme se ozvat my Vám?"
   success_message: "Váš email byl zadán, ozveme se Vám co nejdříve."
   error_message: "Chyba při zadání emailu."
