@@ -19,12 +19,12 @@ showcase:
   button:
     icon: ""
     btnText: "PRO FIRMY"
-    URL: "#firmy"
+    URL: "https://www.solarnimise.cz/#firmy"
   
   button2:
     icon: ""
     btnText: "PRO DOMY"
-    URL: "#domy"
+    URL: "https://www.solarnimise.cz/#domy"
 
   socialLinks:
     - icon: "instagram"
@@ -52,7 +52,7 @@ firmy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "#contact"
+    URL: "https://www.solarnimise.cz/#contact"
   image:
     x: "img/firmy/firmy.png"
     _2x: "img/firmy/firmy@2x.png"
@@ -97,7 +97,7 @@ firmy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "#contact"
+    URL: "https://www.solarnimise.cz/#contact"
 
   items:
     - title: "Bohaté zkušenosti v oblasti výstavby fotovoltaických elektráren"
@@ -156,7 +156,7 @@ domy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "#contact"
+    URL: "https://www.solarnimise.cz/#contact"
   image:
     x: "img/domy/domy.png"
     _2x: "img/domy/domy@2x.png"
@@ -209,7 +209,7 @@ domy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "#contact"
+    URL: "https://www.solarnimise.cz/#contact"
 
   items:
     - title: "1) První krok k nezávislosti a úspoře"
@@ -315,7 +315,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#contact"
+        URL: "https://www.solarnimise.cz/#contact"
       image:
         x: "img/works/servis.jpg"
         _2x: "img/works/servis@2x.jpg"
@@ -326,7 +326,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#contact"
+        URL: "https://www.solarnimise.cz/#contact"
       image:
         x: "img/works/konzultace.jpg"
         _2x: "img/works/konzultace@2x.jpg"
@@ -337,7 +337,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "#contact"
+        URL: "https://www.solarnimise.cz/#contact"
       image:
         x: "img/works/recyklace.jpg"
         _2x: "img/works/recyklace@2x.jpg"
@@ -350,7 +350,7 @@ contact:
   form:
     method: "POST"
     action: "#"
-    full_name: "Jméno a příjméní"
+    full_name: "Jméno a příjmení"
     email: "Emailová adresa"
     message: "Vaše zpráva"
   phone:
@@ -370,6 +370,6 @@ contact:
 newsletter:
   enable: true
   title: "Máme se ozvat my Vám?"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
+  success_message: "Váš email byl zadán, ozveme se Vám co nejdříve."
+  error_message: "Chyba při zadání emailu."
   note: "Vaše kontaktní informace s nikým dalším nesdílíme."
