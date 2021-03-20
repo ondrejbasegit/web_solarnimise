@@ -349,7 +349,7 @@ contact:
   title: "Kontakt"
   form:
     method: "POST"
-    action: "#"
+    action: "https://www.solarnimise.cz/#contact"
     full_name: "Jméno a příjmení"
     email: "Emailová adresa"
     message: "Vaše zpráva"
