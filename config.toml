@@ -1,6 +1,5 @@
 baseURL = "https://www.solarnimise.cz"
 languageCode = "en-us"
-title = "Solární mise"
 theme = "raditian-free-hugo-theme"
 
 # Plugins
