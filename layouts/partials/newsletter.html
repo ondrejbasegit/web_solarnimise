@@ -14,13 +14,13 @@
             placeholder="Emailová adresa..."
             aria-label="Emailová adresa"
           />
-          <button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
-            Odeslat
-          </button>
           <div class="field">
             <label for="subject" style="display: none;">Předmět:</label>
             <input type="hidden" name="subject" id="subject" value="Zpráva z webu www.solarnimise.cz"/>
           </div>
+          <button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
+            Odeslat
+          </button>
         </form>
         <div id="rad-subscription-success" class="d-none">
           <p class="lead">{{ .Site.Data.homepage.newsletter.success_message }}</p>
