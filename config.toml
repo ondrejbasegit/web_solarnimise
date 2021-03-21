@@ -37,7 +37,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "Kontaktujte nás!"
-  URL = "#kontakt"
+  URL = "#contact"
   weight = 4
 
 
@@ -59,7 +59,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "firmy", "firmy_nabidka", "firmy_body", "domy", "domy_nabidka", "domy_body", "client-and-work", "contact", "newsletter"]
+  sections = ["showcase", "firmy", "firmy_nabidka", "firmy_body", "domy", "domy_nabidka", "domy_body", "client-and-work", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
