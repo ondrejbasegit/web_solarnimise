@@ -27,33 +27,33 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "Pro firmy"
-  URL = "https://www.solarnimise.cz/#firmy"
+  URL = "#firmy"
   weight = 2
 
   [[menu.header]]
   name = "Pro domy"
-  URL = "https://www.solarnimise.cz/#domy"
+  URL = "#domy"
   weight = 3
 
   [[menu.header]]
   name = "Kontaktujte nás!"
-  URL = "https://www.solarnimise.cz/#contact"
+  URL = "#kontakt"
   weight = 4
 
 
   [[menu.footer]]
   name = "Pro firmy"
-  URL = "https://www.solarnimise.cz/#firmy"
+  URL = "#firmy"
   weight = 2
 
   [[menu.footer]]
   name = "Pro domy"
-  URL = "https://www.solarnimise.cz/#domy"
+  URL = "#domy"
   weight = 3
 
   [[menu.footer]]
   name = "Kontaktujte nás!"
-  URL = "https://www.solarnimise.cz/#contact"
+  URL = "#contact"
   weight = 4
 
 
