@@ -52,7 +52,7 @@ firmy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "https://www.solarnimise.cz/#kontakt"
+    URL: "#kontakt"
   image:
     x: "img/firmy/firmy.png"
     _2x: "img/firmy/firmy@2x.png"
@@ -97,7 +97,7 @@ firmy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "https://www.solarnimise.cz/#kontakt"
+    URL: "#kontakt"
 
   items:
     - title: "Bohaté zkušenosti v oblasti výstavby fotovoltaických elektráren"
@@ -156,7 +156,7 @@ domy:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "https://www.solarnimise.cz/#kontakt"
+    URL: "#kontakt"
   image:
     x: "img/domy/domy.png"
     _2x: "img/domy/domy@2x.png"
@@ -209,7 +209,7 @@ domy_body:
   button:
     icon: ""
     btnText: "KONTAKTUJTE NÁS!"
-    URL: "https://www.solarnimise.cz/#kontakt"
+    URL: "#kontakt"
 
   items:
     - title: "1) První krok k nezávislosti a úspoře"
@@ -315,7 +315,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "https://www.solarnimise.cz/#kontakt"
+        URL: "#kontakt"
       image:
         x: "img/works/servis.jpg"
         _2x: "img/works/servis@2x.jpg"
@@ -326,7 +326,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "https://www.solarnimise.cz/#kontakt"
+        URL: "#kontakt"
       image:
         x: "img/works/konzultace.jpg"
         _2x: "img/works/konzultace@2x.jpg"
@@ -337,7 +337,7 @@ client_and_work:
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
-        URL: "https://www.solarnimise.cz/#kontakt"
+        URL: "#kontakt"
       image:
         x: "img/works/recyklace.jpg"
         _2x: "img/works/recyklace@2x.jpg"
