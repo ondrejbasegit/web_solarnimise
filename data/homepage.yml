@@ -62,29 +62,26 @@ firmy_nabidka:
   enable: true
   title: "Program podpory úspory energie pro fotovoltaické systémy"
   items:
-    - name: "MALÝ PODNIK (do 50 zaměstnanců)"
-      position: "Dotace 80%"
-      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
-      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
-      Výzva je průběžná, žádosti je možné podávat do 31.8.2020"
+    - name: ""
+      position: ""
+      content: "Do výzvy v rámci Modernizačního fondu (RES+) mohou podat žádost žadatelé, kteří do 1. 2. 2021 podali předregistrační žádost Státnímu fondu životního prostředí. 
+      V druhé polovině letošního roku bude otevřena další předregistrační výzva, kam bude možné zahrnout i Váš projekt."
       image:
         x: ""
         _2x: ""
 
-    - name: "STŘEDNÍ PODNIK (do 250 zaměstnanců)"
-      position: "Dotace 70%"
-      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
-      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
-      Výzva je průběžná, žádosti je možné podávat do 31.8.2020"
+    - name: ""
+      position: ""
+      content: "Předpokládaná se podpora pro FVE o výkonu do 1 MWp bude poskytnuta pro malý podnik až 65 %, nicméně výši dotace si volí žadatel sám. 
+      Po uzavření výzvy budou všechny žádosti vyhodnocovány společně, kdy nejvíce bodů získá žadatel s nejnižší požadovanou výši dotace."
       image:
         x: ""
         _2x: ""
 
-    - name: "VELKÝ PODNIK (nad 250 zaměstnanců)"
-      position: "Dotace 60%"
-      content: "Podpora do 1 MWp instalovaného výkonu. Maximálně 30% přetoků vyrobené energie do distribuční sítě. Minimální výše dotace 2 000 000 Kč 
-      a udržitelnost projektu minimálně na 5 let. Projektovou dokumentaci a stavební povolení lze doložit až po uznání dotace. 
-      Výzva je průběžná, žádosti je možné podávat do 31.8.2020."
+    - name: ""
+      position: ""
+      content: "Součástí instalace může být také bateriové úložiště, a to s 15 body navíc. 
+      FVE zapojována na hladinu nízkého napětí má požadavek na minimální kapacitu 20 % instalovaného výkonu FVE a maximálně 60 % instalovaného výkonu."
       image:
         x: ""
         _2x: ""
