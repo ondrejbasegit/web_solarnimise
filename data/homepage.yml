@@ -351,8 +351,8 @@ contact:
     email: "Emailová adresa"
     message: "Vaše zpráva"
   phone:
-    title: "Telefonní číslo"
-    number: "+420 777 621 311"
+    title: ""
+    number: ""
   email:
     title: "Email"
     email: '<a href="mailto:info@solarnimise.cz">info@solarnimise.cz</a>'
