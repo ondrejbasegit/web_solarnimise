@@ -63,25 +63,43 @@ firmy_nabidka:
   title: "Program podpory úspory energie pro fotovoltaické systémy"
   items:
     - name: ""
-      position: ""
-      content: "Do výzvy v rámci Modernizačního fondu (RES+) mohou podat žádost žadatelé, kteří do 1. 2. 2021 podali předregistrační žádost Státnímu fondu životního prostředí. 
-      V druhé polovině letošního roku bude otevřena další předregistrační výzva, kam bude možné zahrnout i Váš projekt."
+      position: "Jakak získat dotace na fotovoltaiku"
+      content: "O dotace na solární panely je mezi firmami obrovský zájem. Představují totiž řešení, jak do budoucna výrazně snížit náklady na energie. Zjistěte, co je dobré promyslet před startem projektu a jak úspěšně dotaci získat."
       image:
         x: ""
         _2x: ""
 
     - name: ""
-      position: ""
-      content: "Předpokládaná se podpora pro FVE o výkonu do 1 MWp bude poskytnuta pro malý podnik až 65 %, nicméně výši dotace si volí žadatel sám. 
-      Po uzavření výzvy budou všechny žádosti vyhodnocovány společně, kdy nejvíce bodů získá žadatel s nejnižší požadovanou výši dotace."
+      position: "Základní informace"
+      content: "Cílem výzvy je podpořit projekty instalace fotovoltaických systémů. Dotace můžete čerpat jak na projekty samostatných fotovoltaik, tak i systémů s akumulací energie (bateriových úložišť)."
       image:
         x: ""
         _2x: ""
 
     - name: ""
-      position: ""
-      content: "Součástí instalace může být také bateriové úložiště, a to s 15 body navíc. 
-      FVE zapojována na hladinu nízkého napětí má požadavek na minimální kapacitu 20 % instalovaného výkonu FVE a maximálně 60 % instalovaného výkonu."
+      position: "Na co lze žádat dotaci"
+      content: "Pořízení fotovoltaických panelů, nosných konstrukcí apod., stavební práce, dodávky a služby, projektová dokumentace, inženýrská činnost (TDI, AD)."
+      image:
+        x: ""
+        _2x: ""
+
+    - name: ""
+      position: "Kdo může dotaci získat"
+      content: "Malé, střední i velké podniky – vyjma podniků vlastněných 100 % veřejným subjektem (netýká se státní organizace Správa železnic) a podniků provozujících zařízení v EU ETS na území České republiky."
+      image:
+        x: ""
+        _2x: ""
+
+    - name: ""
+      position: "Forma a výše podpory"
+      content: "Míra podpory pro FVE je 35 %, pro bateriový systém je 45 - 50 %. Dotace je poskytována jako procentuální podíl ze způsobilých výdajů, dotační podpora bude stejná pro firmy všech velikostí. Podpora je poskytována ex-post - tedy po realizaci projektu."
+      image:
+        x: ""
+        _2x: ""
+
+    - name: ""
+      position: "Hlavní podmínky dotace"
+      content: "Podpořeny budou projekty do 1MW. Musí se jednat o střešní instalace nebo instalace na podnikatelských budovách. Je možné pouze jedno odběrné místo do sítě, a získanou elektřinu nemusíte využívat jen pro vlastní spotřebu. Realizace musí být pouze na území ČR včetně území hl. m. Prahy, a žadatel musí jednoznačně prokázat vlastnická nebo jiná práva k nemovitostem a pozemkům, kde bude projekt realizován."
       image:
         x: ""
         _2x: ""
@@ -102,11 +120,6 @@ firmy_body:
       Realizovali jsme řadu pozemních instalací, včetně instalací na střechách průmyslových objektů a hal, o celkovém instalovaném výkonu přesahujícím 12 000 kWp."
       duration: ""
 
-    - title: "Dotace z programu OP PIK, s podporou až 80% z uznatelných nákladů investice"
-      company: "Pro výstavbu Vaší fotovoltaické elektrárny jsme schopni zajistit podání žádosti o dotaci z programu OP PIK, a to až ve výši 80 % z uznatelných nákladů investice. 
-      V případě Vašeho zájmu vše zařídíme za Vás."
-      duration: ""
-
     - title: "Nezávislost na distribuční síti"
       company: "Snižte své účty za nákup elektřiny nebo se přestaňte obávat jejího výpadku. 
       S vlastní elektrárnou na střeše můžete mít i řešení, které Vám zabezpečí stabilní dodávku v případě výpadku distribuční soustavy."
@@ -118,13 +131,11 @@ firmy_body:
       duration: ""
 
     - title: "Garance kvality"
-      company: "Pro výstavbu našich elektráren používáme pouze kvalitní a osvědčené značky, jako například Q Cells, Winaico, Kyocera, CSUN, Fronius a další. 
-      Vzhledem k tomu můžeme poskytnout záruku kvality na panely až 30 let a na střídačce až 10 let."
+      company: "Pro výstavbu našich elektráren používáme pouze kvalitní a osvědčené značky, jako například Storion, Loxone a další. Vzhledem k tomu můžeme poskytnout záruku kvality na panely až 25 let a na střídače až 10 let."
       duration: ""
 
     - title: "Servis a podpora"
-      company: "Ať už budete na svém počítači, tabletu či chytrém mobilu, budete mít vždy přehled o provozu své elektrárny, stejně jako naši technici. 
-      Ti díky tomu mohou flexibilně reagovat na jakékoli problémy s elektrárnou a v co nejkratším čase je začít řešit."
+      company: "Ať už budete na svém počítači, tabletu či chytrém mobilu, budete mít vždy přehled o provozu své elektrárny. Navíc budete mít i možnost přes aplikaci svoji FVE ovládat a optimalizovat. Stejně tak naši technici díky tomu mohou flexibilně reagovat na jakékoli problémy s elektrárnou a v co nejkratším čase je začít řešit."
       duration: ""
 
 # domy
@@ -140,7 +151,7 @@ domy:
     </p>
     <p class="lead">
     Zajistíme dotace, a pokud bude potřeba, tak i financování Vaší nové elektrárny. 
-    S námi máte záruku <u><b>až 30 let</b></u> na výkonu FVE, <u><b>až 20 let</b></u> na fotovoltaické panely a <u><b>10 let</b></u> na střídač a bateriový systém. 
+    S námi máte záruku <u><b>až 25 let</b></u> na fotovoltaické panely a <u><b>10 let</b></u> na střídač a bateriový systém. 
     Máme tým s dlouholetými zkušenostmi a spolupracujeme s ověřenými dodavateli kvalitních technologií. 
     Nainstalovali jsme elektrárny s celkovým výkonem přes 12.000 kWp (12 mWp), a to je opravdu velký výkon!
     </p>
@@ -218,7 +229,7 @@ domy_body:
       duration: ""
 
     - title: "3) Instalace"
-      company: "O naplánovaném termínu instalace začneme brzy ráno, a pokud bude dobré počasí, tak máme během jednoho dne hotovo. Typická doba instalace je jeden až dva dny."
+      company: "O naplánovaném termínu instalace začneme brzy ráno, a pokud bude dobré počasí, tak máme během dvou až tří dnů hotovo."
       duration: ""
 
     - title: "4) Revize a zaškolení"
@@ -319,7 +330,7 @@ client_and_work:
       is_even: true
 
     - title: "Poradenství a konzultace"
-      description: "Pomůžeme Vám s uzavřením smlouvy na výkup přebytků, s vydáním a prodloužením certifikátů pro systém firmy OTE a.s. včetně potřebného nastavení ve Vašem počítači a s vyplňováním měsíčních výkazů a účetnictvím."
+      description: "Pomůžeme Vám i s uzavřením smlouvy na výkup přebytků."
       button:
         icon: ""
         btnText: "KONTAKTUJTE NÁS!"
@@ -328,17 +339,6 @@ client_and_work:
         x: "img/works/konzultace.jpg"
         _2x: "img/works/konzultace@2x.jpg"
       is_even: false
-
-    - title: "Recyklace"
-      description: "Zprostředkujeme Vaši registraci do kolektivního systému pro potřeby recyklace solárních panelů dle novely vyhlášky č. 352/2005 Sb."
-      button:
-        icon: ""
-        btnText: "KONTAKTUJTE NÁS!"
-        URL: "https://www.solarnimise.cz/#contact"
-      image:
-        x: "img/works/recyklace.jpg"
-        _2x: "img/works/recyklace@2x.jpg"
-      is_even: true
 
 # contact
 contact:

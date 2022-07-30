@@ -5,15 +5,15 @@
         <div class="row row--padded mb-0 rad-fade-down">
             {{ range .Site.Data.homepage.firmy_nabidka.items }}
             <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <div class="testimonial__author">
+                    <div class="testimonial__author-info">
+                        <span>{{ .position }}</span>
+                        <h4>{{ .name }}</h4>
+                    </div>
+                </div>
                 <p>
                     {{ .content }}
                 </p>
-                <div class="testimonial__author">
-                    <div class="testimonial__author-info">
-                        <h4>{{ .name }}</h4>
-                        <span>{{ .position }}</span>
-                    </div>
-                </div>
             </div>
             {{ end }}
         </div>
