@@ -175,7 +175,7 @@ domy_nabidka:
   title: "Naše nabídka"
   items:
     - name: "Elektrárna Baby solární mise"
-      position: "od 60 000 Kč"
+      position: "Kontaktujte nás!"
       content: 'Nejmenší možná efektivní elektrárna, která za Vás povede solární misi ke snížení nákladu na spotřebu energií v rámci bydlení. 
       Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
       Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
@@ -186,7 +186,7 @@ domy_nabidka:
         _2x: ""
 
     - name: "Elektrárna Princess solární mise"
-      position: "od 150 000 Kč"
+      position: "Kontaktujte nás!"
       content: "Ukládání energie do baterií - využíváte ji přesně v okamžik, kdy potřebujete. Systém proti výpadku dodávek ze sítě - Vy stále svítíte a domácnost jede!
       Vytvořili jsme takovou sestavu, kde dosáhnete na dotaci, kterou Vám garantujeme!
       Vše zařídíme za Vás: Projekt, dotace, realizaci, poradenství i servis.
@@ -245,6 +245,44 @@ domy_body:
       company: "Sledujte jak Vám Vaše nová elektrárna šetří náklady - online na svém mobilním telefonu, tabletu nebo počítači. Jsme Vám oporou pro servis po celou dobu provozu."
       duration: ""
 
+# vyhody - body
+vyhody_body:
+  enable: true
+  title: "Proč do toho jít s námi?"
+  description: 'Aneb výhody Solárni mise pro Vás.'
+  button:
+    icon: ""
+    btnText: "KONTAKTUJTE NÁS!"
+    URL: "https://www.solarnimise.cz/#contact"
+
+  items:
+    - title: ""
+      company: "Líbivý design, garantovaná kvalita, vzdálené připojení, ovládání i servisní zásahy a detekce závady výrobcem i na dálku (nemusíme k Vám zajíždět)."
+      duration: ""
+
+    - title: ""
+      company: "Systémový produkt - měnič i baterie od jednoho výrobce, je zajištěná kompatibilita."
+      duration: ""
+
+    - title: ""
+      company: "BackUp i Wattrouter jsou již součástí systému a ceny, není třeba již dokupovat."
+      duration: ""
+
+    - title: ""
+      company: "Nejvyšší životnost v cyklech 10.000-12.000 cyklů v případě baterií řady HV 8.2, nejvyšší možné uložiště na trhu (49,2 kWh v případě měničů řady HV). Nejvyšší rozšiřitelnost výkonu na střeše 16.000W v případě měniče HV-T10."
+      duration: ""
+
+    - title: ""
+      company: "Vysoká efektivita - rozsah pracovního napětí baterií 240VDC až 288VDC = 48VDC."
+      duration: ""
+
+    - title: ""
+      company: "Monitoring 7/24, systémová konektivita se SMART HOME a servis a záruky bez skrytých podmínek. Záruka na baterie je 10 let (garance 90% využitelné kapacity po uvedenou dobu), záruka na měnič výrobce je 5 let (umíme až 10 let). "
+      duration: ""
+
+    - title: ""
+      company: "Rychlá montáž (obvykle 2 - 3 dny)."
+      duration: ""
 
 # Klienti
 client_and_work:
